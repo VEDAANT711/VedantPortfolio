@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/VedantPortfolio/static/css/main.e0b4901b.css",
-    "main.js": "/VedantPortfolio/static/js/main.7110ae1a.js",
+    "main.js": "/VedantPortfolio/static/js/main.e9029c37.js",
     "static/js/453.f876866a.chunk.js": "/VedantPortfolio/static/js/453.f876866a.chunk.js",
     "static/media/PowerBI.png": "/VedantPortfolio/static/media/PowerBI.e889a0587209cbe03417.png",
     "static/media/SQLPizza.png": "/VedantPortfolio/static/media/SQLPizza.ecd650f3571014c37b40.png",
     "index.html": "/VedantPortfolio/index.html",
     "main.e0b4901b.css.map": "/VedantPortfolio/static/css/main.e0b4901b.css.map",
-    "main.7110ae1a.js.map": "/VedantPortfolio/static/js/main.7110ae1a.js.map",
+    "main.e9029c37.js.map": "/VedantPortfolio/static/js/main.e9029c37.js.map",
     "453.f876866a.chunk.js.map": "/VedantPortfolio/static/js/453.f876866a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0b4901b.css",
-    "static/js/main.7110ae1a.js"
+    "static/js/main.e9029c37.js"
   ]
 }
