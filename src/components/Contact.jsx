@@ -54,7 +54,7 @@ const Contact = () => {
 					to_email: "gaikwadvedant2@gmail.com",
 					message: user_message,
 				},
-				EMAIL_JS_PUBLIC_KEY
+				"C9h94Fv8PS65imwn_"
 			)
 			.then(
 				() => {
@@ -70,8 +70,8 @@ const Contact = () => {
 				},
 				(error) => {
 					setLoading(false);
-					console.error(error);
-					toast.error("Uh, oh! Something went wrong. Please try again later.", {
+					console.error("Error details:", error);
+					toast.error(`Uh, oh! Something went wrong. ${error.text}. Please try again later.`, {
 						position: 'bottom-right',
 					});
 				}

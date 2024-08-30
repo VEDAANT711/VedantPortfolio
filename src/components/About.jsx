@@ -3,6 +3,8 @@ import '../App.css';
 import { services } from '../constants';
 import ButtonLink from './ButtonLink';
 import Footer from './Footer';
+// import { HashRouter as Router, Route, Switch } from 'react-router-dom';
+// import { BrowserRouter as Router } from 'react-router-dom';
 
 const ServiceCard = ({ service }) => (
   <div className='sm:w-[250px] w-full'>
@@ -38,7 +40,7 @@ const About = () => {
               Data Science and emerging technology trends. I'm also passionate about photography📸, capturing moments to tell compelling visual stories🌟📷.</p>
 
             <ButtonLink
-              url='https://drive.google.com/file/d/102WfPHaZhL6UN7-_83dxf0eN72kmMb-t/view?usp=drive_link'
+              url='https://drive.google.com/file/d/102WfPHaZhL6UN7-_83dxf0eN72kmMb-t/view?usp=sharing'
               text='View Resume →'
               padding={`p-3`}
             />
